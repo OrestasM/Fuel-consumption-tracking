@@ -34,4 +34,5 @@
         - [ ] (GET) https://www.carqueryapi.com/api/0.3/?callback=?&cmd=getModels&make={make}
 ## UI definition
 ![Add new vehicle UI](https://flic.kr/p/2fmn29B)
+![Alt text](https://flic.kr/p/2fmn29B "Add new vehicle UI")
 
