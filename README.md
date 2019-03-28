@@ -1,8 +1,6 @@
-# WEB system
-- [ ] Replace "WEB system" with your system name
-
+# Gasolic
 ## Description
-- [ ] Provide WEB system description in few sentences - its purpose, users, etc.
+- [ ] The main purpose for this WEB system is individual vehicle fuel-consumption tracking.
 
 ## Entity definition
 - [ ] Define the entity ("object" that will be manipulated) of WEB system
