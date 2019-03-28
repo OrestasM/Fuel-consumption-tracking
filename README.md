@@ -33,6 +33,8 @@
     - [ ] Get models
         - [ ] (GET) https://www.carqueryapi.com/api/0.3/?callback=?&cmd=getModels&make={make}
 ## UI definition
-![Add new vehicle UI](https://flic.kr/p/2fmn29B)
-![Alt text](https://flic.kr/p/2fmn29B "Add new vehicle UI")
+[Add new vehicle UI](https://farm8.staticflickr.com/7873/47488118431_88bdd06d22_b.jpg)
+    - This UI allows user to add a new vehicle on its vehicle list.
 
+[Control your vehicles UI](https://farm8.staticflickr.com/7920/40522194383_cc7990f0d3_z.jpg)
+    - This UI allows user to control already added vehicles - add their consumption, see various graphs of fuel consumptions, etc.
