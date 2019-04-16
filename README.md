@@ -50,6 +50,31 @@
         - (GET) https://www.carqueryapi.com/api/0.3/?callback=?&cmd=getMakes
     - Get models
         - (GET) https://www.carqueryapi.com/api/0.3/?callback=?&cmd=getModels&make={make}
+    - Add new car
+        - (POST) /api/car/add
+    - Get cars by owner ID
+        - (GET) /api/car/get/{id}
+    - Get car by ID
+        - (GET) /api/get/single/{id}
+    - Delete car by ID
+        - (DELETE) /api/get/single/{id}
+    - Add consumptions
+        - (POST) /api/consumptions/add
+    - Update consumptions
+        - (PUT) /api/consumptions/add/{id}
+   - Get consumptions for single car
+        - (GET) /api/consumptions/get/{id}
+   - Get all consumptions
+        - (GET) /api/consumptions/get
+   - Delete consumption by ID
+        - (DELETE) /api/consumptions/{id}
+   - Register new user
+        - (POST) /api/users/register
+   - Login
+        - (POST) /api/users/login
+   - Get current user
+        - (GET) /api/users/currentuser
+    - 
 ## UI definition
 ![Add new vehicle UI](https://farm8.staticflickr.com/7873/47488118431_88bdd06d22_b.jpg)  
     - This UI allows user to add a new vehicle on its vehicle list.
